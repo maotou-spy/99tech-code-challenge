@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 
    - Open SQL Server Management Studio
    - Connect to your SQL Server instance
-   - Execute the `crude_server.sql` or execute the below script to create the database and import sample data
+   - Execute the `crude_server.sql` script or run the following script to create the database and import sample data.
 
    ```sql
     -- Run the SQL script
