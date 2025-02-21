@@ -147,14 +147,21 @@ All endpoints follow consistent error response format:
    - Suspicious patterns monitored
 
 ## System Architecture
+
 ### User Login API
-![User Login API](images/user-login-api.png)
+<p align="center">
+  <img src="images/user-login-api.png" alt="User Login API">
+</p>
 
 ### Score Update API
-![Score Update API](images/score-update-api.png)
+<p align="center">
+  <img src="images/score-update-api.png" alt="Score Update API">
+</p>
 
 ### Top 10 Scores API
-![Top 10 Scores API](images/top10-scores-api.png)
+<p align="center">
+  <img src="images/top10-scores-api.png" alt="Top 10 Scores API">
+</p>
 
 ## Future Improvements
 -   Implement **WebSocket** for real-time leaderboard updates.
